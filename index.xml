@@ -13,11 +13,31 @@
     
     
     <item>
-      <title>Members</title>
-      <link>https://utinverse.github.io/about/</link>
+      <title>Our Team</title>
+      <link>https://utinverse.github.io/team/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://utinverse.github.io/about/</guid>
+      <guid>https://utinverse.github.io/team/</guid>
+      <description>Following is a list of current members of the group.
+ Mrinal K Sen Zheyu Zhao Ram Tuvi Pankaj K Mishra add later  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://utinverse.github.io/research/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://utinverse.github.io/research/</guid>
+      <description>We do some cool things. Come back later for an update.
+Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>https://utinverse.github.io/contacts/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://utinverse.github.io/contacts/</guid>
       <description>Following is a list of current members of the group.
  Mrinal K Sen Zheyu Zhao Ram Tuvi Pankaj K Mishra add later  Learn more and contribute on GitHub.</description>
     </item>
