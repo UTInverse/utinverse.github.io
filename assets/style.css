@@ -7,6 +7,12 @@ body {
   height: 100%;
 }
 
+.header {
+  overflow: hidden;
+  background-color: #f1f1f1;
+  padding: 20px 10px;
+}
+
 #holy {
   display: grid;
   /* auto: as wide as its content
