@@ -20,6 +20,7 @@ body {
 }
 #header {
   grid-area: header;
+  padding: 0.7rem;
 }
 #main {
   grid-area: main;
