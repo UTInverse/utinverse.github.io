@@ -20,15 +20,14 @@ body {
 }
 #header {
   grid-area: header;
-  padding: 0.7rem;
 }
 #main {
   grid-area: main;
-  max-width: 1000px;
+  max-width: 1100px;
 }
 #side {
   grid-area: side;
-  width: 230px;
+  width: 250px;
 }
 #footer {
   grid-area: footer;
