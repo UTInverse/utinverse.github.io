@@ -7,11 +7,6 @@ body {
   height: 100%;
 }
 
-.header {
-  overflow: hidden;
-  background-color: #f1f1f1;
-  padding: 20px 10px;
-}
 
 #holy {
   display: grid;
@@ -27,13 +22,14 @@ body {
 #header {
   grid-area: header;
 }
+
 #main {
   grid-area: main;
-  max-width: 782px;
+  max-width: 1000px;
 }
 #side {
   grid-area: side;
-  width: 230px;
+  width: 200px;
 }
 #footer {
   grid-area: footer;
